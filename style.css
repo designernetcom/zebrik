@@ -9859,3 +9859,23 @@ div#wrapper.open > .offcanvas-mask {
 .service-page .images {
   padding: 30px;
 }
+.service-bannerText h4 {
+  z-index: 100000;
+  position: absolute;
+  top: 310px;
+  left: 100px;
+  font-size: 35px;
+  font-family: "PT Serif", serif;
+  color: #000;
+  text-transform: capitalize;
+}
+.service-bannerText h5 {
+  z-index: 100000;
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  font-size: 35px;
+  font-family: "PT Serif", serif;
+  color: #000;
+  text-transform: capitalize;
+}
