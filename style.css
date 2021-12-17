@@ -9879,3 +9879,7 @@ div#wrapper.open > .offcanvas-mask {
   color: #000;
   text-transform: capitalize;
 }
+
+.serviceButton button {
+  background-color: #2a2a28;
+}
