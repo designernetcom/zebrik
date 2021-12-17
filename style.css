@@ -95,7 +95,7 @@ body {
   color: #000000;
   background-color: #ffffff;
 }
-p
+p{
   margin: 0 0 20px 0;
   color: #000000;
 }
@@ -9827,7 +9827,7 @@ div#wrapper.open > .offcanvas-mask {
   }
 
   .service-desc .col-md-6 {
-    background-color: bisque;
+    background-color: #fc8626;
   }
   
   .service-desc .image img {
