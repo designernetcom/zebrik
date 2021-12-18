@@ -2957,6 +2957,10 @@ nav.template-main-menu > ul > li:hover .template-mega-menu {
   padding: 28px 18px;
   color: #000000;
 }
+.header-menu.menu-layout1.rt-sticky nav.template-main-menu > ul > li > a:hover {
+  padding: 28px 18px;
+  color: #ff5917;
+}
 @media only screen and (max-width: 1199px) {
   .header-menu.menu-layout1.rt-sticky nav.template-main-menu > ul > li > a {
     padding: 28px 15px;
